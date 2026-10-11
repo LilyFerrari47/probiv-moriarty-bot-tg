@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://LilyFerrari47.github.io/probiv-moriarty-bot-tg/sitemap.xml
